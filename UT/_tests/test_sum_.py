@@ -15,7 +15,7 @@ class TestSum(unittest.TestCase):
         
         self.assertEqual(result, 3, " 1 + 2 != 3 ")
         
-   
+    
 
 if __name__ == "__main__":
     #import sys;sys.argv = ['', 'Test.testName']
