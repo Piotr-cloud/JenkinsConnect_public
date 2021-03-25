@@ -1,12 +1,12 @@
 '''
-Created on Mar 24, 2021
+Created on Mar 25, 2021
 
 @author: piotr
 '''
-import unittest
 
-from _test.test_sum_ import TestSum
-from _test.test_subtr import TestSubtr
+import unittest
+from _tests import *
+
 
 
 
