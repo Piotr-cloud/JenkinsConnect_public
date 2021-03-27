@@ -13,7 +13,7 @@ class TestSum(unittest.TestCase):
     def test_1_plus_2(self):
         result = sum_(1,2)
         
-        self.assertEqual(result, 4, " 1 + 2 != 3 ")
+        self.assertEqual(result, 3, " 1 + 2 != 3 ")
         
        
 
